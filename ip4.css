@@ -1,0 +1,96 @@
+body{
+	background-image:url("svg37.png");
+	height:110vh;
+	background-size:cover;
+	background-position:center;
+}
+.login-page{
+	width:80%;
+	padding:10% 0 0;
+	margin:auto;
+}
+
+.form{
+	position:relative;
+	z-index:1;
+	background:#ffffff;
+	max-width:860px;
+	margin:0;
+	padding:0px;
+	border-radius: 8px
+}
+
+.form input{
+	font-family:"roboto",sans-serif;
+	outline:1;
+	background:#f2f2f2;
+	width:50%;
+	border:0;
+	margin:0 0 35px;
+	padding:15px;
+	font-size:14px;
+	border-radius:4px;
+}
+.form button{
+	font-family:"roboto",sans-serif;
+	text-transform: uppercase;
+	outline:0;
+	background:#eaeff3;
+	width:55%;
+	border:0;
+	padding:15px;
+	color:#465166;
+	font-size:14px;
+	cursor:pointer;
+	border-radius:4px;
+	margin-bottom:40px;
+}
+h2{
+	margin:60px;
+	padding:0;
+	color:#465166;
+
+}
+.go{
+	color:#465166;
+	margin-left:70px;
+}
+.welcome{
+	background-color: #28428a;
+	height:500px;
+	width:400px;
+
+}
+.welcome h1{
+
+	font:inherit;
+	color:white;
+	font-size:35px;
+	margin-top:0px;
+	margin-left:50px;
+
+}
+.welcome p{
+	font:inherit;
+	color:white;
+	margin:50px;
+	font-size:17px;
+
+}
+.form ul{
+	display:flex;
+	justify-content: center;
+}
+.form ul li{
+	list-style: none;
+}
+.track{
+	font:inherit;
+	color:white;
+	margin-left: 50px;
+	padding:15px;
+
+}
+strong{
+	color: #ed6a00;
+}
